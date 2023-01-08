@@ -3,6 +3,13 @@ package com.sobczak.artur;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        int[] tab = {1, 5, 10};
+        for (int arrayElements : tab) {
+            System.out.print(arrayElements + ", ");
+        }
+
+
+
     }
 }
