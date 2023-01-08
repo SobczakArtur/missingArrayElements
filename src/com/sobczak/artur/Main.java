@@ -8,8 +8,7 @@ public class Main {
         for (int arrayElements : tab) {
             System.out.print(arrayElements + ", ");
         }
-
-
-
+        System.out.println();
+        System.out.println("ffff");
     }
 }
